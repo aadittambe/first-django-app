@@ -1,3 +1,3 @@
 # First Django App
 
-Learning to cool things with Django!
+Learning to do cool things with Django!
